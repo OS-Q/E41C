@@ -1,34 +1,24 @@
-﻿# [无线组网](https://github.com/OS-Q/W21) 
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-####  qitas@qitas.cn
-#### 归属通信终端：[M5](https://github.com/OS-Q/M5)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
+﻿# [zepyhr](https://github.com/OS-Q/zepyhr) 
 
-## [平台描述](https://github.com/OS-Q/W21/wiki) 
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-无线组网平台，通过无线自组网完成相应的通信任务
+#### 归属实时系统：[RTQ](https://github.com/OS-Q/RTQ)
 
-## [平台资源](https://github.com/OS-Q/W21) 
+### [zepyhr简介](https://github.com/OS-Q/zepyhr/wiki)
 
-- [资源](src/)
-- [文档](docs/)
+[zepyhr](https://www.zephyrproject.org/) 是一个采用Apache 2.0协议许可，Linux基金会托管的协作项目。为所有资源受限设备，构建了针对低功耗、小型内存微处理器设备而进行优化的物联网嵌入式小型、可扩展的实时操作系统（RTOS），支持多种硬件架构及多种开发板（ARM、ARC、X86、xtensa、nois2、riscv32），可以在小至8 kB内存的系统上运行。
 
-### [平台结构](https://github.com/OS-Q/W21) 
+采用深入的安全开发生命周期：安全验证，模糊和渗透测试，频繁的代码审查，静态代码分析，威胁建模和审查，以防止代码中的后门。
 
-* M5：[通信终端](https://github.com/OS-Q/M5)
-	* W18：[双机通信](https://github.com/OS-Q/W18)
-	* W19：[多机通信](https://github.com/OS-Q/W19)
-	* W20：[无线连接](https://github.com/OS-Q/W20)
-	* W21：[无线组网](https://github.com/OS-Q/W21)
-		* D141：[BLE Mesh](https://github.com/OS-Q/D141)
-		* D142：[ZigBee](https://github.com/OS-Q/D142)
-		* D143：[Thread](https://github.com/OS-Q/D143)
-		* D144：[ANT](https://github.com/OS-Q/D144)
-		* D145：[LoRaWAN](https://github.com/OS-Q/D145)
-		* D146：[CLAA](https://github.com/OS-Q/D146)
-		* D147：[WMN](https://github.com/OS-Q/D147)
-	* W22：[终端入网](https://github.com/OS-Q/W22)
+支持Bluetooth, Bluetooth Low Energy, Wi-Fi, 802.15.4，6Lowpan, CoAP, IPv4, IPv6, 和 NFC 等标准，通过社区驱动的发展来改进和增强功能。
 
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/W21)
-####  2019-5-9
+#### 关键特性
+
+
+
+### [收录资源](https://github.com/OS-Q) 
+
+* [文档](docs/)
+* [资源](src/)
+
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com)
