@@ -1,7 +1,7 @@
 {
   "name": "framework-zephyr-hal-nordic",
-  "version": "0.0.0-alpha+sha.d8a6ea9695",
-  "description": "Nordic nRF5x HAL for Zephyr framework",
+  "version": "0.1.0",
+  "description": "Nordic nRF52 HAL for Zephyr framework",
   "keywords": [
     "library",
     "zephyr",
