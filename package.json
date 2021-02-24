@@ -1,5 +1,5 @@
 {
-  "name": "framework-zephyr-hal-nordic",
+  "name": "zephyr-hal-nordic",
   "version": "0.1.1",
   "description": "Nordic nRF52 HAL for Zephyr framework",
   "keywords": [
